@@ -9,7 +9,7 @@ Hi! I'm a mobile application developer, excellent analytical and design capabili
 <img align="left" alt="MD Rakibul Hasan's LinkedIN" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> You can reach me via LinkedIn 
 </a>
 <br/><br/><br/>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -36,4 +36,4 @@ Hi! I'm a mobile application developer, excellent analytical and design capabili
   
 <br/>![Hmshohrab's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibcse99&layout=compact&theme=radical)<br/>
 
-![Metrics](https://metrics.lecoq.io/Md Rakibul Hasan)
+![Metrics](https://metrics.lecoq.io/rakibcse99)
