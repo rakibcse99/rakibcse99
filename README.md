@@ -34,6 +34,6 @@ Hi! I'm a mobile application developer, excellent analytical and design capabili
 - Retrofit/Volley
 - Sockets 
   
-<br/>![Hmshohrab's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibcse99&layout=compact&theme=radical)<br/>
+<br/>![rakibcse99's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibcse99&layout=compact&theme=radical)<br/>
 
 ![Metrics](https://metrics.lecoq.io/rakibcse99)
