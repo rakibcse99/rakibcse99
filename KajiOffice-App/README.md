@@ -11,9 +11,9 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://raw.githubusercontent.com/rakibcse99/rakibcse99/main/images/kajioffice1.jpg" alt="project-screenshot" width="300" height="600/">
+<img src="https://raw.githubusercontent.com/rakibcse99/rakibcse99/main/images/kajioffice1.jpg" alt="project-screenshot" width="250" height="600/">
 
-<img src="https://raw.githubusercontent.com/rakibcse99/rakibcse99/main/images/kajioffice2.jpg" alt="project-screenshot" width="300" height="600/">
+<img src="https://raw.githubusercontent.com/rakibcse99/rakibcse99/main/images/kajioffice2.jpg" alt="project-screenshot" width="250" height="600/">
 
 
 <h2>🧐 Features</h2>
