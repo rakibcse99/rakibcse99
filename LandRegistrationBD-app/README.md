@@ -6,7 +6,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://drive.google.com/file/d/1iA0lror\_e-LSI9dDZSOJM8xwXjtJ8xsS/view?usp=share\_linkTetrZRCvi/view?usp=share\_link](https://drive.google.com/file/d/1iA0lror_e-LSI9dDZSOJM8xwXjtJ8xsS/view?usp=share_linkTetrZRCvi/view?usp=share_link)
+[LandRegistrationBD.APK-Link](https://drive.google.com/file/d/1iA0lror_e-LSI9dDZSOJM8xwXjtJ8xsS/view?usp=share_linkTetrZRCvi/view?usp=share_link)
 
 <h2>Project Screenshots:</h2>
 
