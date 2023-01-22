@@ -7,7 +7,7 @@
 
 <h2>🚀 Demo</h2>
 
-[KaziOffice.APK](https://play.google.com/store/apps/details?id=com.landregistration.namjari_info)
+[E-Mutation.APK](https://play.google.com/store/apps/details?id=com.landregistration.namjari_info)
 
 <h2>Project Screenshots:</h2>
 
